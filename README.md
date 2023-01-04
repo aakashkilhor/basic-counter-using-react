@@ -8,7 +8,7 @@
 
 - Every time value of counter is changed useEffect will log "Hello Hooks" in the console
 - Dependencies in useEffect hook trigger the function every time it gets updated
-- We can update as many dependencies as we want
+- We can add as many dependencies as we want
 
 ## Learnings
 Working of useState & useEffect hook in react
